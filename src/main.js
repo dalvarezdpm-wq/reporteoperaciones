@@ -802,7 +802,7 @@ function topbar() {
   return `
   <div class="topbar">
     <div class="brand">
-      <div class="brand-mark"><img src="/logo-ow.jpg" alt="OW" /></div>
+      <div class="brand-mark"><img src="./logo-ow.jpg" alt="OW" />
       <div class="brand-text"><div class="t1">Oñate, Willy &amp; Cía.</div><div class="t2">Reporte operativo diario · v${APP_VERSION}</div></div>
     </div>
     <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;">
